@@ -1,3 +1,6 @@
+ruby "2.1.2"
+#ruby-gemset=odot-rails
+
 source 'https://rubygems.org'
 
 
